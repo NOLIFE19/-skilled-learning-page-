@@ -1,0 +1,38 @@
+@media only screen and (max-width:1000px){
+    .div-img{
+        display: none;
+    }
+    .div-img1{
+        display: block;
+    }
+}
+@media only screen and (max-width:1365px){
+    .sec2{
+        display: flex;
+        justify-content: column;
+        
+    }
+    .first-box{
+        margin-bottom: 15px;
+    }
+    .first-box2{
+        margin-bottom: 15px;
+    }
+    footer{
+        margin-top: 300px;
+    }
+}
+
+@media only screen and (max-width:910px){
+    footer{
+        margin-top: 1300px;
+    }
+}
+@media only screen and (max-width:700px){
+    .div-img1{
+        display: none;
+    }
+    .div-img2{
+        display: block;
+    }
+}
